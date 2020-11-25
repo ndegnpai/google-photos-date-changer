@@ -11,4 +11,4 @@ ex: python date-changer.py
 
 I have also created an exe file. 
 
-The program will work only on windows with powershell. 
+The program will work only on Windows operating systems with powershell. 
